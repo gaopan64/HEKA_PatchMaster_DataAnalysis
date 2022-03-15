@@ -1,2 +1,2 @@
-# Matlab for HEKA analysis
-Matlab scripts for HEKA PatchMaster data 
+# Script for HEKA PatchMaster Data analysis
+Matlab/Python scripts for HEKA PatchMaster data 
